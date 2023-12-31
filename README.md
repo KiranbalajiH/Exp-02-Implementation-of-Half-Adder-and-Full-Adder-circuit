@@ -38,17 +38,52 @@ If the output is 1, then the led glows.
 Program:
 /*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
-Logic symbol & Truthtable
-RTL realization
+Developed by: KIRANBALAGI H
 
-### Output:
-### RTL
-### TIMING DIAGRAM
+RegisterNumber:  23002730
 
+Code:
 
-### TRUTH TABLE 
+Half adder:
+
+![Exp3 ha code](https://github.com/KiranbalajiH/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149135475/bf1b2728-b19f-44d8-bede-3f54cd85770d)
+
+Full Adder:
+
+![Exp3 fa code](https://github.com/KiranbalajiH/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149135475/482898dc-4c7a-4785-ad44-1a5b5b0f3f83)
+
+RTL Diagram:
+
+Half adder:
+
+![Exp3 ha RTL diagram](https://github.com/KiranbalajiH/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149135475/a9743254-a0ac-4f0e-b416-e2863852edca)
+
+Full adder:
+
+![Exp3 fa RTL diagram](https://github.com/KiranbalajiH/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149135475/1d64e90c-8a11-4a6c-9262-9ee2ec5a4ba4)
+
+Truth table:
+
+Half adder:
+
+![Exp3 truthtable (ha)](https://github.com/KiranbalajiH/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149135475/81d5f9c8-6f8b-45eb-abb1-f3778f380f80)
+
+Full adder:
+
+![Exp3 truthtable (fa)](https://github.com/KiranbalajiH/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149135475/356ec84f-e1f4-4bb4-a20f-74c9aa7561db)
+
+Output:
+
+Half adder:
+
+![Exp2 wave](https://github.com/KiranbalajiH/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149135475/b4160a13-d931-4583-9f12-029ef95b070a)
+
+Full adder:
+
+![Exp3 fa wave](https://github.com/KiranbalajiH/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/149135475/56636adc-a8fc-4d9a-b99c-5294754ddd57)
+
 
 ### Result:
+
+ Thus the half adder and full adder circuit are designed and the truth table for half adder and full
+ adder are verified
